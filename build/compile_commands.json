@@ -1,0 +1,17 @@
+[
+  {
+    "directory": "C:\\Projects\\Oxygen\\build",
+    "command": "c++ @subprojects/fmt-5.3.0/aaf1efd@@fmt@sha/src_format.cc.obj.rsp",
+    "file": "../subprojects/fmt-5.3.0/src/format.cc"
+  },
+  {
+    "directory": "C:\\Projects\\Oxygen\\build",
+    "command": "c++ @subprojects/fmt-5.3.0/aaf1efd@@fmt@sha/src_posix.cc.obj.rsp",
+    "file": "../subprojects/fmt-5.3.0/src/posix.cc"
+  },
+  {
+    "directory": "C:\\Projects\\Oxygen\\build",
+    "command": "c++ @oxygen@exe/oxygen_test.cpp.obj.rsp",
+    "file": "../oxygen_test.cpp"
+  }
+]

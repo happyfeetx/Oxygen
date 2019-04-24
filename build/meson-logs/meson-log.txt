@@ -1,0 +1,57 @@
+Build started at 2019-04-24T16:39:42.616758
+Main binary: C:\Program Files\Meson\meson.exe
+Python system: Windows
+The Meson build system
+Version: 0.50.1
+Source dir: C:\Projects\Oxygen
+Build dir: C:\Projects\Oxygen\build
+Build type: native build
+Project name: Oxygen
+Project version: 0.1
+Sanity testing C++ compiler: c++
+Is cross compiler: False.
+Sanity check compiler command line: c++ C:\Projects\Oxygen\build\meson-private\sanitycheckcpp.cc -o C:\Projects\Oxygen\build\meson-private\sanitycheckcpp.exe
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: C:\Projects\Oxygen\build\meson-private\sanitycheckcpp.exe
+Native C++ compiler: c++ (gcc 8.1.0 "c++.exe (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0")
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+
+Executing subproject nlohmann_json 
+
+Project name: nlohmann_json
+Project version: 3.4.0
+Native C++ compiler: c++ (gcc 8.1.0 "c++.exe (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0")
+Build targets in project: 0
+Subproject nlohmann_json finished.
+
+
+Executing subproject fmt 
+
+Project name: fmt
+Project version: 5.3.0
+Native C++ compiler: c++ (gcc 8.1.0 "c++.exe (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0")
+Build targets in project: 1
+Subproject fmt finished.
+
+Adding test "oxygen"
+Build targets in project: 3
+Found ninja-1.8.2 at 'C:\ProgramData\chocolatey\bin\ninja.EXE'
+Running compile:
+Working directory:  C:\Users\Database\AppData\Local\Temp\tmphmpp_s8u
+Command line:  c++ C:\Users\Database\AppData\Local\Temp\tmphmpp_s8u\testfile.cpp -pipe -c -o C:\Users\Database\AppData\Local\Temp\tmphmpp_s8u\output.obj -O0 -fpermissive --print-search-dirs 
+
+Code:
+ 
+Compiler stdout:
+ install: C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/
+programs: =C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/;C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../libexec/gcc/;C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/x86_64-w64-mingw32/8.1.0/;C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/
+libraries: =C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/;C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/;C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/x86_64-w64-mingw32/8.1.0/;C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../x86_64-w64-mingw32/8.1.0/;C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib/;C:/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64/mingw/lib/x86_64-w64-mingw32/8.1.0/;C:/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64/mingw/lib/../lib/;C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/;C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../;C:/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64/mingw/lib/
+
+Compiler stderr:
+ 

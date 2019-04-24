@@ -1,0 +1,8 @@
+# ninja log v5
+80	636	5778416028403670	liboxygen.dll	c4fbae52e49a8a0d
+56	1035	5778416032273324	oxygen@exe/oxygen_test.cpp.obj	4f1d52dab75597ca
+637	1114	5778416033041262	oxygen@sha/liboxygen.dll.symbols	42ab5730a5283cf4
+1114	1495	5778416037060517	oxygen.exe	7f068a30bc4e8e54
+26	2166	5778416043634404	subprojects/fmt-5.3.0/aaf1efd@@fmt@sha/src_posix.cc.obj	cdb40dcb87f1fce7
+1	3777	5778416059866130	subprojects/fmt-5.3.0/aaf1efd@@fmt@sha/src_format.cc.obj	2d3dfab164e0292c
+3777	5383	5778416075946186	subprojects/fmt-5.3.0/libfmt.dll	a32fea84b66574a3
